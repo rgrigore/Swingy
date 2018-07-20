@@ -1,0 +1,5 @@
+package swingy.Controller;
+
+public enum GamePhase {
+	MAIN_MENU, NEW_CHARACTER, LOAD_CHARACTER, LOAD_GAME, NAVIGATION, ENCOUNTER, COMBAT, LOOT, DEFEAT
+}
